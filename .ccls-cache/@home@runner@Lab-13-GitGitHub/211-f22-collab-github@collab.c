@@ -21,6 +21,14 @@ void reed_ekidan2() {
   printf("We learned that git and GitHub are amazing, powerful tools!\n");
 }
 
+void evazq2_schit7() {
+    printf("Erick Vazquez and Sai Chittala");
+    printf("We learned how to clone the repository using git commands.");
+    printf("We learned the difference between git and github. Where git is a version control system, and github being a hosting platform for collaboration.");
+}
+
+
+
 int main()
 {
     printf("This code has been created by the students of CS 211, Fall 2022!\n\n");
